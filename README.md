@@ -10,7 +10,7 @@
 
 Web SDK Integration
 
-- Import [atlaskyc.js]() script to your HTML file
+- Import [atlaskyc.js](https://github.com/frslabs/vimos-web/releases/download/v1.0.0/atlaskyc.js) script to your HTML file
 
 ```html
 <script src="atlaskyc.js">
